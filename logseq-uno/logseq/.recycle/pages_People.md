@@ -1,0 +1,8 @@
+- All the wonderful people
+- {{embed [[uno-people]]}}
+-
+- {{embed [[Community]]}}
+-
+- {{embed [[Foundations]]}}
+-
+- {{embed [[Industry]]}}

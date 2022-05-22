@@ -1,0 +1,9 @@
+- Modeling
+	- generate
+	- sculpt
+	- texture
+	-
+	-
+- Animating
+	- weight paint
+	- frames

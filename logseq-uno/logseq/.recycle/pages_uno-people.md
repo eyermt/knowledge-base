@@ -1,0 +1,17 @@
+- [[students]]
+	- Raven Snow
+	- Cedric Snow
+	- Mark Eyer
+	- Tera Eyer
+	- Mel
+- [[faculty]]
+	- Ted Holmberg
+		- Computer Science Department
+	- Rachel Breunlin
+		- Head of Anthropology
+		-
+	- Research
+		- Liz Seigler
+	- Library
+-
+	-

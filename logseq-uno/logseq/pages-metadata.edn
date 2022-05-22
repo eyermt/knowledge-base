@@ -1,0 +1,350 @@
+[{:block/name "628980d2-a72d-4bba-b163-a865526a5d46",
+  :block/created-at 1653179103161,
+  :block/updated-at 1653179103161}
+ {:block/name "a",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "accounting",
+  :block/created-at 1653186543054,
+  :block/updated-at 1653186543054}
+ {:block/name "active-projects",
+  :block/created-at 1652675668681,
+  :block/updated-at 1652675668681}
+ {:block/name "anthropology and sociology",
+  :block/created-at 1653187031076,
+  :block/updated-at 1653187031076}
+ {:block/name "b",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "biological sciences",
+  :block/created-at 1653186784072,
+  :block/updated-at 1653186784072}
+ {:block/name
+  "boysie bollinger school of naval architecture and marine engineering",
+  :block/created-at 1653186247340,
+  :block/updated-at 1653186247340}
+ {:block/name "c",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "card",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "chemistry",
+  :block/created-at 1653186784737,
+  :block/updated-at 1653186784737}
+ {:block/name "code-of-conduct",
+  :block/created-at 1652675668619,
+  :block/updated-at 1652675668619}
+ {:block/name "code_of_conduct.md",
+  :block/created-at 1653178603255,
+  :block/updated-at 1653179103163}
+ {:block/name "college-of-business-administration",
+  :block/created-at 1653186455294,
+  :block/updated-at 1653186577095}
+ {:block/name "college-of-engineering",
+  :block/created-at 1653186116002,
+  :block/updated-at 1653186322374}
+ {:block/name
+  "college-of-liberal-arts-education-and-human-development",
+  :block/created-at 1653186673723,
+  :block/updated-at 1653187316072}
+ {:block/name "college-of-liberal-arts-education-and-human-devment",
+  :block/created-at 1653187758472,
+  :block/updated-at 1653187758472}
+ {:block/name "college-of-sciences",
+  :block/created-at 1653186712020,
+  :block/updated-at 1653186789456}
+ {:block/name "colleges",
+  :block/created-at 1653183218450,
+  :block/updated-at 1653186712021}
+ {:block/name "community",
+  :block/created-at 1652675668472,
+  :block/updated-at 1653180806379}
+ {:block/name "computer science",
+  :block/created-at 1653186785718,
+  :block/updated-at 1653186785718}
+ {:block/name "contents",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "contributor-covenant",
+  :block/created-at 1653178407343,
+  :block/updated-at 1653179169977}
+ {:block/name "curriculum, instruction and special education",
+  :block/created-at 1653187090852,
+  :block/updated-at 1653187090852}
+ {:block/name "department of civil and environmental engineering",
+  :block/created-at 1653186223821,
+  :block/updated-at 1653186283119}
+ {:block/name "department of electrical and computer engineering",
+  :block/created-at 1653186230790,
+  :block/updated-at 1653186230790}
+ {:block/name "department of mechanical engineering",
+  :block/created-at 1653186242710,
+  :block/updated-at 1653186242710}
+ {:block/name "department-resources",
+  :block/created-at 1652675669119,
+  :block/updated-at 1652675669119}
+ {:block/name "doing",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "done",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "earth and environmental sciences",
+  :block/created-at 1653186786830,
+  :block/updated-at 1653186786830}
+ {:block/name "economics and finance",
+  :block/created-at 1653186555376,
+  :block/updated-at 1653186555376}
+ {:block/name "educational leadership, counseling, and foundations",
+  :block/created-at 1653187082487,
+  :block/updated-at 1653187082487}
+ {:block/name "enforcement ladder",
+  :block/created-at 1653179169976,
+  :block/updated-at 1653179169976}
+ {:block/name "english",
+  :block/created-at 1653187232773,
+  :block/updated-at 1653187232773}
+ {:block/name "faculty",
+  :block/created-at 1652675668758,
+  :block/updated-at 1652675668758}
+ {:block/name "favorites",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "film and theater",
+  :block/created-at 1653187217934,
+  :block/updated-at 1653187217934}
+ {:block/name "fine arts",
+  :block/created-at 1653187131793,
+  :block/updated-at 1653187131793}
+ {:block/name "foreign languages",
+  :block/created-at 1653187240553,
+  :block/updated-at 1653187240553}
+ {:block/name "foundations",
+  :block/created-at 1652675668488,
+  :block/updated-at 1652675668488}
+ {:block/name "getting involved",
+  :block/created-at 1652675668508,
+  :block/updated-at 1652679009141}
+ {:block/name "github",
+  :block/created-at 1652675668725,
+  :block/updated-at 1653156334802}
+ {:block/name "gitlab",
+  :block/created-at 1652675668525,
+  :block/updated-at 1652675668525}
+ {:block/name "groups",
+  :block/created-at 1653173030516,
+  :block/updated-at 1653173257077}
+ {:block/name "history",
+  :block/created-at 1653187235872,
+  :block/updated-at 1653187235872}
+ {:block/name "ieee sa open platform",
+  :block/created-at 1652675668525,
+  :block/updated-at 1652675668525}
+ {:block/name "in-progress",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "industry",
+  :block/created-at 1652675668534,
+  :block/updated-at 1652675668534}
+ {:block/name "information",
+  :block/created-at 1652675668548,
+  :block/updated-at 1652675668548}
+ {:block/name "knowledge-base",
+  :block/created-at 1652651600363,
+  :block/updated-at 1653156304689}
+ {:block/name "later",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "management and marketing",
+  :block/created-at 1653186558200,
+  :block/updated-at 1653186558200}
+ {:block/name "mathematics",
+  :block/created-at 1653186787541,
+  :block/updated-at 1653186787541}
+ {:block/name "mattermost",
+  :block/created-at 1652675668524,
+  :block/updated-at 1652675668524}
+ {:block/name "may 15th, 2022",
+  :block/created-at 1652650501118,
+  :block/updated-at 1652650501118}
+ {:block/name "may 16th, 2022",
+  :block/created-at 1652678543210,
+  :block/updated-at 1652678543210}
+ {:block/name "may 18th, 2022",
+  :block/created-at 1652904996615,
+  :block/updated-at 1652904996615}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653155761339,
+  :block/updated-at 1653182098493}
+ {:block/name "meta",
+  :block/created-at 1653181849554,
+  :block/updated-at 1653183358029}
+ {:block/name "music",
+  :block/created-at 1653187228152,
+  :block/updated-at 1653187228152}
+ {:block/name "new page: kanban",
+  :block/created-at 1652675668794,
+  :block/updated-at 1652675668794}
+ {:block/name "new page: open-templates",
+  :block/created-at 1653174730939,
+  :block/updated-at 1653174730939}
+ {:block/name "now",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "open calls",
+  :block/created-at 1652675668601,
+  :block/updated-at 1653178864398}
+ {:block/name "open works collective",
+  :block/created-at 1652650514997,
+  :block/updated-at 1653179749736}
+ {:block/name "open-education",
+  :block/created-at 1652653488501,
+  :block/updated-at 1652653488501}
+ {:block/name "open-organization-template",
+  :block/created-at 1653174798594,
+  :block/updated-at 1653174798594}
+ {:block/name "open-primer",
+  :block/created-at 1652653460669,
+  :block/updated-at 1652653460669}
+ {:block/name "open-project-template",
+  :block/created-at 1653174846256,
+  :block/updated-at 1653178466030}
+ {:block/name "open-recommendations",
+  :block/created-at 1652653587781,
+  :block/updated-at 1652653620721}
+ {:block/name "open-templates",
+  :block/created-at 1653174731356,
+  :block/updated-at 1653175207915}
+ {:block/name "open-works-collective",
+  :block/created-at 1652675668772,
+  :block/updated-at 1652675960960}
+ {:block/name "operation",
+  :block/created-at 1652675668620,
+  :block/updated-at 1653176920746}
+ {:block/name "organizations-in-open",
+  :block/created-at 1652675669121,
+  :block/updated-at 1652675669121}
+ {:block/name "ospo",
+  :block/created-at 1653175105672,
+  :block/updated-at 1653175117731}
+ {:block/name "owc gardening",
+  :block/created-at 1652675668546,
+  :block/updated-at 1652675668546}
+ {:block/name "owc-advisory-committee",
+  :block/created-at 1653175897358,
+  :block/updated-at 1653175897358}
+ {:block/name "owc-committees",
+  :block/created-at 1653177580870,
+  :block/updated-at 1653177648574}
+ {:block/name "owc-constitution",
+  :block/created-at 1652652181091,
+  :block/updated-at 1652652336768}
+ {:block/name "owc-documentation",
+  :block/created-at 1652651249063,
+  :block/updated-at 1652652398886}
+ {:block/name "owc-governance",
+  :block/created-at 1653173600908,
+  :block/updated-at 1653177698105}
+ {:block/name "owc-members",
+  :block/created-at 1653177614615,
+  :block/updated-at 1653180829458}
+ {:block/name "owc-root-committee",
+  :block/created-at 1653175866063,
+  :block/updated-at 1653175866063}
+ {:block/name "owc-website",
+  :block/created-at 1652675668774,
+  :block/updated-at 1652675668774}
+ {:block/name "philosophy",
+  :block/created-at 1653187247636,
+  :block/updated-at 1653187247636}
+ {:block/name "physics",
+  :block/created-at 1653186788430,
+  :block/updated-at 1653186788430}
+ {:block/name "planning and urban studies",
+  :block/created-at 1653187034798,
+  :block/updated-at 1653187034798}
+ {:block/name "political science",
+  :block/created-at 1653187032550,
+  :block/updated-at 1653187032550}
+ {:block/name "program-base",
+  :block/created-at 1653178021624,
+  :block/updated-at 1653178921744}
+ {:block/name "project incubator",
+  :block/created-at 1652675668669,
+  :block/updated-at 1652675668669}
+ {:block/name "project-base",
+  :block/created-at 1653174216216,
+  :block/updated-at 1653178099171}
+ {:block/name "project-template",
+  :block/created-at 1653176062781,
+  :block/updated-at 1653178393369}
+ {:block/name "projects",
+  :block/created-at 1652675668682,
+  :block/updated-at 1653179438152}
+ {:block/name "psychology",
+  :block/created-at 1653186789455,
+  :block/updated-at 1653186789455}
+ {:block/name "research pathway",
+  :block/created-at 1652675668670,
+  :block/updated-at 1652675668670}
+ {:block/name "roadmap",
+  :block/created-at 1652653091181,
+  :block/updated-at 1652653243276}
+ {:block/name "runbook",
+  :block/created-at 1652675668547,
+  :block/updated-at 1652675668547}
+ {:block/name "school of hotel, restaurant and tourism administration",
+  :block/created-at 1653186561882,
+  :block/updated-at 1653186561882}
+ {:block/name "school-of-education",
+  :block/created-at 1653187062218,
+  :block/updated-at 1653187090852}
+ {:block/name "school-of-humanities",
+  :block/created-at 1653186950930,
+  :block/updated-at 1653187247636}
+ {:block/name "school-of-liberal-arts",
+  :block/created-at 1653186897742,
+  :block/updated-at 1653187228152}
+ {:block/name "school-of-social-sciences",
+  :block/created-at 1653187005556,
+  :block/updated-at 1653187034798}
+ {:block/name "schools",
+  :block/created-at 1653186322373,
+  :block/updated-at 1653187980744}
+ {:block/name "student organizations",
+  :block/created-at 1653184099996,
+  :block/updated-at 1653184099996}
+ {:block/name "students",
+  :block/created-at 1652679047891,
+  :block/updated-at 1652679047891}
+ {:block/name "todo",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "tools",
+  :block/created-at 1652675668922,
+  :block/updated-at 1652675668922}
+ {:block/name "uno",
+  :block/created-at 1653181873849,
+  :block/updated-at 1653184099997}
+ {:block/name "uno-igda",
+  :block/created-at 1653174126313,
+  :block/updated-at 1653174126313}
+ {:block/name "uno-open",
+  :block/created-at 1652675668727,
+  :block/updated-at 1653182816982}
+ {:block/name "uno-open-member-organizations",
+  :block/created-at 1653175461850,
+  :block/updated-at 1653175522419}
+ {:block/name "uno-open-operation",
+  :block/created-at 1653173717218,
+  :block/updated-at 1653177068771}
+ {:block/name "uno-people",
+  :block/created-at 1653180857550,
+  :block/updated-at 1653180857550}
+ {:block/name "wait",
+  :block/created-at 1652654015754,
+  :block/updated-at 1652654015754}
+ {:block/name "waiting",
+  :block/created-at 1652654015754, 
+  :block/updated-at 1652654015754}]

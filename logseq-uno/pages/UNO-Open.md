@@ -1,0 +1,30 @@
+- Community Umbrella
+	- Potential OSPO? [[OSPO]]
+	- Student Foundation?
+		- Organization of Organizations
+- Currently maintained by: [[Open Works Collective]]
+-
+- Member Organizations [[uno-open-member-organizations]]
+	- {{embed [[uno-open-member-organizations]]}}
+-
+- Works with
+	- [[knowledge-base]]
+	- [[runbook]]
+-
+- Platforms
+  collapsed:: true
+	- {{embed [[Tools]]}}
+	-
+-
+- Programs [[program-base]]
+  collapsed:: true
+	- {{embed [[program-base]]}}
+-
+- Projects [[project-base]]
+	- UNO-Open Meta - This knowledge wiki
+	- {{embed [[project-base]]}}
+-
+- {{embed [[uno-open-operation]]}}
+-
+- Community
+	- {{embed [[Community]]}}

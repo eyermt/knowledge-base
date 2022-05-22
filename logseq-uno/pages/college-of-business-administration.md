@@ -1,0 +1,10 @@
+- Departments/schools [[schools]]
+	- [[Accounting]]
+	- [[Economics and Finance]]
+	- [[Management and Marketing]]
+	- [[School of Hotel, Restaurant and Tourism Administration]]
+- Programs
+	- Undergraduate Programs
+	- Graduate Programs
+	- Certification Programs
+	- Other Programs

@@ -1,0 +1,9 @@
+- Some information about Open Works Collective governance
+-
+- Governing Documents
+	- Open Works Collective Constitution [[owc-constitution]]
+	- Community Code of Conduct [[code-of-conduct]]
+-
+- Committees [[owc-committees]]
+	- Root Committee [[owc-root-committee]]
+	- Advisory Committee [[owc-advisory-committee]]

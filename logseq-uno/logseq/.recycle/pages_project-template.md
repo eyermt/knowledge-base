@@ -1,0 +1,12 @@
+- Open Project Template
+	- Communications
+		- IEEE SA Open
+			- Create Mattermost Channel under UNO-Open
+			- Make Gitlab subgroup
+				- make repository (public) (for these reasons-kb)
+	- Community Code of Conduct
+	- Contributor covenant/Guidelines
+	- Maintainer Guidelines?
+	- Roadmap
+	- README.md
+	- Accessible First timer Issues

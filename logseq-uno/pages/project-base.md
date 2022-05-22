@@ -1,0 +1,3 @@
+- [[open-templates]]
+	- Open Project Template [[open-project-template]]
+	- Open Organization Template [[open-organization-template]]

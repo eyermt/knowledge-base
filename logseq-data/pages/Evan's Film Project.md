@@ -1,0 +1,21 @@
+- Aspects
+	- Film
+		- Acting
+	- Music
+		- Babydriver
+	- Science
+		- Space-time-dimensions
+	- Technology
+		- Modern techniques for content generation and synchronicity
+- Skillsets
+	- Digital 3D
+		- Modeling [[blender]]
+		- Animating [[blender]]
+		- Photogrammetry [[meshroom]]
+		- physics simulations
+			- universe scale
+			- digital sets
+	- Audio
+		- Mixing
+			- beat matching
+-

@@ -1,0 +1,93 @@
+- Open Calls
+	- Open Call for sound recording people
+		- lets record the rock band performances
+	- Open Call for illustrators
+		- We want to collab on art
+			- perhaps cypress themed
+	- Open Call for writers
+		- We want to help share your stories openly
+-
+- Programs
+	- Project Incubator
+		- The more interdisciplinary the better :)
+	- Research Pathway
+		- Open Science/Research
+	- Exchange student experience
+		- Participate in a project?
+	- Open Research Advisors
+-
+- Getting Involved
+	- Onboarding
+		- observe planning
+	- Meetings
+	- Projects
+	- Mentorship
+-
+- Tools
+	- IEEE SA Open Platform
+		- Gitlab
+			- UNO-Open
+				- repositories
+				- groups
+				- boards
+		- Mattermost
+			- UNO-Open
+				- channels
+				- boards?
+			-
+	- Github Organization
+		- UNO-Open
+			- Repositories
+				- open-works-collective
+				- owc-constitution
+			- Project Boards
+			- Teams
+				- Open Works Collective Team
+-
+-
+- Information
+	- Roadmap
+	- Github project board
+	- Runbook
+	- Knowledge Base
+-
+- Projects
+	- past
+	- Active
+		- Rock Band Collab - w/ music, film, and publishing
+	- Ideas
+-
+- Operation
+	- Constitution
+	- Runbook
+	- Community Code of Conduct
+	- Contributor Covenant
+	- Maintainer Guidelines?
+		- recommended quality checks
+			- conforms to naming conventions etc...
+	- involvement/onboarding
+		- contributing.md
+-
+- People
+	- University of New Orleans
+		- Faculty
+			- Ted Holmberg
+				- Computer Science Department
+			- Rachel Breunlin
+				- Head of Anthropology
+				-
+			- Research
+				- Liz Seigler
+			- Library
+	- Community
+		- Open@RIT
+			- Mike Nolan
+		- IEEE SA Open
+			- Beth
+	- Foundations
+		- SLOAN Foundation
+			- Dr. Elizabeth Vu
+		-
+	- Industry
+		- Linux Foundation...
+			- check card - lives in nola

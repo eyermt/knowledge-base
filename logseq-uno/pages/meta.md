@@ -1,0 +1,9 @@
+- Hierarchy of scope for open efforts
+- World?
+- Academia? Scholarverse?
+- University of New Orleans [[UNO]]
+	- {{embed [[UNO]]}}
+	- Uno-Open Community Umbrella [[UNO-Open]]
+		- {{embed [[UNO-Open]]}}
+		- Open Student Organization [[Open Works Collective]]
+		- {{embed [[Open Works Collective]]}}

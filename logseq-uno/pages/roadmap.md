@@ -1,0 +1,34 @@
+- Initial Package
+	- Constitution
+		- Small edits?
+			- Active members
+			- Inclusive voting
+	- Sponsor
+		- Ted Holmberg
+		- Rachel Breunlin
+	- Initial member list
+		- Raven
+		- Cedric
+		- Mark
+		- Tera
+		- Mel
+	- Anti-hazing course
+- Start Open Works Collective student organization
+-
+-
+- Next Steps  --from issues--
+	- Communications
+		- Reach out to Dr. Vu for OSSNA scholarship opportunity
+	- Projects
+		- Recommendations for open access music publishing
+	- Documents
+		- Getting involved
+	- Meetings
+		- Meet with Mike Nolan
+		- Meet with Juniper (UVM)
+	-
+-
+- This Summer
+	- OSSNA 2022
+-
+-

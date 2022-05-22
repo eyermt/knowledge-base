@@ -1,0 +1,5 @@
+- The Open Works Collective Constitution
+	- stored in this github repository: [owc-constitution](https://github.com/UNO-Open/owc-constitution)
+- maintained using these practices:
+	- etc...
+-

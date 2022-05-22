@@ -1,0 +1,5 @@
+- Departments/Schools [[schools]]
+- {{embed [[school-of-liberal-arts]]}}
+- {{embed [[school-of-humanities]]}}
+- {{embed [[school-of-social-sciences]]}}
+- {{embed [[school-of-education]]}}

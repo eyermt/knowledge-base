@@ -1,0 +1,23 @@
+- College of Engineering
+	- [[Department of Civil and Environmental Engineering]]
+	- [[Department of Electrical and Computer Engineering]]
+	- [[Department of Mechanical Engineering]]
+	- [[Boysie Bollinger School of Naval Architecture and Marine Engineering]]
+- College of Business Administration
+	- [[Accounting]]
+	- [[Economics and Finance]]
+	- [[Management and Marketing]]
+	- [[School of Hotel, Restaurant and Tourism Administration]]
+- College of Liberal Arts, Education, And Human Development
+	- {{embed [[school-of-liberal-arts]]}}
+	- {{embed [[school-of-humanities]] }}
+	- {{embed [[school-of-social-sciences]]}}
+	- {{embed [[school-of-education]]}}
+- College of Science
+	- [[Biological Sciences]]
+	- [[Chemistry]]
+	- [[Computer Science]]
+	- [[Earth and Environmental Sciences]]
+	- [[Mathematics]]
+	- [[Physics]]
+	- [[Psychology]]

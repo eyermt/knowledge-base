@@ -1,0 +1,59 @@
+- Interests/Passions
+	- Meta
+		- Knowledge [[Knowledge]]
+	-
+	- [[Open]]
+		- Knowledge
+			- Education
+		- Source
+		- Governance
+		- Science
+		-
+	- [[Commons]]
+		- "Foster the commons"
+		- Art commons
+		- Public Land Trusts
+		- Decentralized Internet Infrastructure
+		-
+	- [[Resilience]]
+		- Commons
+		- Open
+		- Self sufficiency - Interdependence
+		- Community Resilience Expert
+		-
+- Skillsets
+	- Authentic Relating
+		- Application/Project: Open Discourse with UNO Open Works Collective & BFHS CSC
+		- Credential: Trained Facilitator
+		-
+	- Open Source Community Management
+		- Credential: LF Certificates
+		-
+	- Linux System Administration
+		- Orchestration
+		-
+		-
+-
+-
+-
+- Mind
+- Body
+- Soul
+-
+-
+- Personal
+	- Born and raised in New Orleans
+	- Education: HYNES/BFHS/UNO
+- Professional
+- Passions
+- Academic
+-
+-
+- Interests
+- Science
+- Religion
+-
+- Philosophy
+	- metaphysics
+	  id:: 62855501-ea75-4d7b-b4b9-74c59d48eb32
+	-

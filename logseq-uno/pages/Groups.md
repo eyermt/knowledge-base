@@ -1,0 +1,14 @@
+- A list of some groups working in open ways
+-
+- UNO-Open
+	- Open Works Collective
+		- Governance
+			- Root Committee
+				- Raven Snow
+				- Cedric Snow
+				- Mark Eyer
+			- Advisory Committee
+				- UNO Faculty
+					- Ted Holmberg
+					- Rachel Breunlin
+				-

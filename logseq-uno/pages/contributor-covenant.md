@@ -1,0 +1,5 @@
+- [Contributor Covenant](https://www.contributor-covenant.org/)
+- id:: 628980d2-a72d-4bba-b163-a865526a5d46
+-
+- [[enforcement ladder]]
+	- inspo: mozilla enforcement ladder

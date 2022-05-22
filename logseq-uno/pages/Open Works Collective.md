@@ -1,0 +1,32 @@
+- Information hub for the Open Works Collective student organization at UNO.
+-
+- Open Calls
+	- {{embed [[Open Calls]]}}
+-
+- Getting Involved:
+	- {{embed [[Getting Involved]]}}
+	- Get connected
+	- Meetings
+	- Projects
+	- Mentorship
+	-
+-
+- {{embed [[Information]]}}
+-
+-
+- Programs
+	- {{embed [[program-base]]}}
+-
+- Tools/Platforms
+	- {{embed [[tools]]}}
+-
+- Projects
+	- {{embed [[Projects]]}}
+	- {{embed [[project-base]]}}
+-
+- Governance
+	- {{embed [[owc-governance]]}}
+-
+- Members [[owc-members]]
+	- {{embed [[Community]]}}
+		-

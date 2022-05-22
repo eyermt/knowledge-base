@@ -1,0 +1,44 @@
+- Open Primer [[open-primer]]
+	- intro to open
+	- info ab other open primers
+		- open@RIT
+	- Open Project Template
+- Open Education [[open-education]]
+	- OER & OEP
+	- Projects
+	- Foundations
+- working in the open [[open-recommendations]]
+	- licencing
+	- publishing
+	- collaborating
+		- community
+		- tools
+	- funding
+		- for individuals
+			- commit bounties
+		- for projects
+			- contributor funds
+		- for organizations
+			- foundations
+-
+- Resources by Department [[department-resources]]
+	- CSCI
+	- Anthropology
+	- Biology
+-
+- open-access
+	- open-knowledge
+		- organizations
+			- Open Knowledge Foundation
+			- wikipedia
+		- open scientific publishing
+-
+- organizations in open [[organizations-in-open]]
+	- open-knowledge
+		- Open Knowledge Foundation
+	- open-source
+	- open-science
+	- open-data
+	- open-energy
+	- open-governance
+	-

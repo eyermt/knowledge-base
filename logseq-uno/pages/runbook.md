@@ -1,0 +1,40 @@
+- [[Tools]]
+	- IEEE SA Open Platform
+		- Gitlab [[gitlab]]
+			- repositories
+			- groups
+			- boards
+		- Mattermost [[mattermost]]
+			- channels
+			-
+	- Github Organization [[github]]
+		- UNO-Open
+			- Repositories
+				- open-works-collective
+				- owc-constitution
+			- Project Boards
+			- Teams
+				- Open Works Collective Team
+	-
+	- Open Works Collective Website [[owc-website]]
+		- host: github pages
+		- repo:
+		- tools
+			- Bootstrap studio - through github student pack
+			- hugo?
+		- development
+		- maintenance
+- Documentation
+- Initiatives
+	- Project Incubator
+		- Recommended documents
+			- contributor covenant
+			- community code of conduct
+- Governance
+	- Constitution Maintenance - [[owc-constitution]]
+- events
+	- meetings
+		- jitsi?
+- Finance
+	- Open Collective
+- Ini

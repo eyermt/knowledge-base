@@ -1,0 +1,23 @@
+- Business Administration
+	- {{embed [[college-of-business-administration]]}}
+- Engineering
+	- {{embed [[college-of-engineering]]}}
+- Liberal Arts, Education and Human Development
+	- {{embed [[college-of-liberal-arts-education-and-human-development]]}}
+- Sciences
+	- {{embed [[college-of-sciences]]}}
+	- Departments
+		- Biological Sciences
+		- Chemistry
+		- Computer Science
+		- Earth and Environmental Sciences
+		- Mathematics
+		- Physics
+		- Psychology
+	- Programs
+		- Undergraduate Programs
+		- Graduate Programs
+		- Certificate Program
+		- Minors
+		- Pre-Professional Programs
+- Interdisciplinary Studies?

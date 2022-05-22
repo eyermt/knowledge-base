@@ -1,0 +1,17 @@
+- All the wonderful people
+- OWC Members
+	- {{embed [[owc-members]]}}
+- {{embed [[uno-people]]}}
+-
+- External Community
+	- Open@RIT
+		- Mike Nolan
+	- IEEE SA Open
+		- Beth
+	- Linux Foundation
+		- check card - lives in nola
+		-
+	- {{embed [[Foundations]]}}
+	-
+	- {{embed [[Industry]]}}
+	-

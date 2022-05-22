@@ -1,0 +1,8 @@
+- Ted Holmberg
+	- Computer Science Department
+- Rachel Breunlin
+	- Head of Anthropology
+	-
+- Research
+	- Liz Seigler
+- Library

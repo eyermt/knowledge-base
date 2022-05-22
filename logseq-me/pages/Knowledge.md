@@ -1,0 +1,9 @@
+- Needs for a knowledege mapping system:
+	- ideas/pages/lists(hierarchical)
+	- Links
+	- Tags
+	- Scopes
+-
+- [[open-knowledge]]
+- [[knowledge-commons]]
+	-

@@ -1,0 +1,4 @@
+- [[English]]
+- [[Foreign Languages]]
+- [[History]]
+- [[Philosophy]]

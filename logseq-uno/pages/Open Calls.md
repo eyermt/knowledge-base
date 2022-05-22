@@ -1,0 +1,8 @@
+- Open Call for sound recording people
+	- lets record the rock band performances
+- Open Call for illustrators
+	- We want to collab on organization art
+		- perhaps cypress themed
+- Open Call for writers
+	- We want to help share your stories openly
+-

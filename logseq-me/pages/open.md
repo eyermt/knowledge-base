@@ -1,5 +1,7 @@
-- Knowledge [[open-knowledge]]
-	- Education [[open-education]]
-- Source [[open-source]]
-- Governance [[open-governance]]
-- Science [[open-science]]
+- {{embed [[open movement]]}}
+- Licensing [[Licensing]]
+  collapsed:: true
+	- {{embed [[Licensing]]}}
+- Documentation [[Documentation]]
+- Inclusivity [[Inclusivity]]
+- Funding [[Funding]]

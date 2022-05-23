@@ -1,0 +1,9 @@
+- Open access Scholarly Publishing [[scholarly-publishing]]
+- Blender for Science
+-
+- Initiatives:
+	- [Initiative for Open Citations](https://i4oc.org/#)
+-
+- Organizations in this Movement
+	- [Center for Open Science](https://www.cos.io/)
+	- [CORE](https://core.ac.uk/about)

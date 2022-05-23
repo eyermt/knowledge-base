@@ -1,0 +1,7 @@
+- Education [[open-education]]
+	- {{embed [[open-education]]}}
+- Science [[open-science]]
+	- {{embed [[open-science]]}}
+- Data [[open-data]]
+-
+-

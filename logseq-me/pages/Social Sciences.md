@@ -1,0 +1,11 @@
+- Anthropology
+- Communication Studies
+- Economics
+- [[Education]]
+- Geography
+- History
+- Law
+- Linguistics
+- Political Science
+- [[Psychology]]
+- [[Sociology]]

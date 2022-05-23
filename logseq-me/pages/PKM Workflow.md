@@ -1,0 +1,16 @@
+- Personal Knowledge Management Software Stack:
+- Firefox
+	- bookmarks
+- Nextcloud
+	- Files
+	- Notes
+	- Mindmaps
+- Notes
+	- Joplin
+	- Android
+		- Carnet
+- Logseq
+	- knowledge wiki
+- rootsofmind
+	- forest of knowledge
+-

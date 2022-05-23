@@ -1,27 +1,26 @@
+- [[PKM Workflow]]
+	- {{embed [[PKM Workflow]]}}
+-
 - Interests/Passions
 	- Meta
 		- Knowledge [[Knowledge]]
-	-
-	- [[Open]]
-		- Knowledge
-			- Education
-		- Source
-		- Governance
-		- Science
-		-
-	- [[Commons]]
-		- "Foster the commons"
-		- Art commons
-		- Public Land Trusts
-		- Decentralized Internet Infrastructure
-		-
-	- [[Resilience]]
-		- Commons
-		- Open
-		- Self sufficiency - Interdependence
-		- Community Resilience Expert
-		-
+		- meta science
+			- https://en.wikipedia.org/wiki/Metascience
+			-
+		- meta open
+			- open source sustainability
+				- OSPOs [[OSPOs]]
+	- Research
+		- [[open]]
+		- [[Commons]]
+		- [[Resilience]]
+		- [[Science]]
+-
+- Research [[my-research]]
+	- {{embed [[my-research]]}}
+-
 - Skillsets
+  collapsed:: true
 	- Authentic Relating
 		- Application/Project: Open Discourse with UNO Open Works Collective & BFHS CSC
 		- Credential: Trained Facilitator

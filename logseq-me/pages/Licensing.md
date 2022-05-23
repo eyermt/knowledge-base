@@ -1,0 +1,17 @@
+- Lists
+	- https://www.gnu.org/licenses/license-list.html
+	- [Creative Commons Licenses](https://creativecommons.org/about/cclicenses/)
+-
+- Licenses
+	- {{embed [[creative-commons-licenses]]}}
+	- {{embed [[GNU Licenses]]}}
+	- The MIT License [[MIT]]
+		- https://opensource.org/licenses/MIT
+-
+-
+- https://www.gnu.org/licenses/license-list.html
+	- {{embed [[GNU Licenses]]}}
+	- [[Apache License, Version 2.0]]
+	- [[Artistic License 2.0]]
+	- [[Clarified Artistic License]]
+-

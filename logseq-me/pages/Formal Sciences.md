@@ -1,0 +1,8 @@
+- Logic
+- Data Science
+- [[Information Science]]
+- [[Mathematics]]
+- Statistics
+- [[Systems Theory]]
+- Decision Theory
+- Theoretical computer science

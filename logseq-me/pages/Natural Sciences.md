@@ -1,0 +1,11 @@
+- Physical Sciences
+	- Physics
+	- Chemistry
+	- [[Earth Science]]
+	- Space Science
+- Life Sciences
+	- Biochemistry
+	- Microbiology
+	- Botany
+	- Zoology
+	- [[Ecology]]

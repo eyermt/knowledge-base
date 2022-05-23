@@ -1,36 +1,129 @@
-[{:block/name "a",
+[{:block/name "3d softwares",
+  :block/created-at 1653265843944,
+  :block/updated-at 1653265844043}
+ {:block/name "a",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "agplv3.0",
+  :block/created-at 1653254549145,
+  :block/updated-at 1653254549145}
+ {:block/name "apache license, version 2.0",
+  :block/created-at 1653254255109,
+  :block/updated-at 1653254255109}
+ {:block/name "applied sciences",
+  :block/created-at 1653262341008,
+  :block/updated-at 1653262341008}
+ {:block/name "artistic license 2.0",
+  :block/created-at 1653254256692,
+  :block/updated-at 1653254256692}
  {:block/name "b",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "blender",
+  :block/created-at 1653256965328,
+  :block/updated-at 1653256965328}
  {:block/name "c",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
  {:block/name "card",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "cc by",
+  :block/created-at 1653253310442,
+  :block/updated-at 1653253458210}
+ {:block/name "cc by-nc",
+  :block/created-at 1653253839331,
+  :block/updated-at 1653253839354}
+ {:block/name "cc by-nc-nd",
+  :block/created-at 1653253845193,
+  :block/updated-at 1653253845214}
+ {:block/name "cc by-nc-sa",
+  :block/created-at 1653253841226,
+  :block/updated-at 1653253841252}
+ {:block/name "cc by-nd",
+  :block/created-at 1653253843307,
+  :block/updated-at 1653253843334}
+ {:block/name "cc by-sa",
+  :block/created-at 1653253837212,
+  :block/updated-at 1653253837239}
+ {:block/name "cc0 public domain",
+  :block/created-at 1653253847827,
+  :block/updated-at 1653253847851}
+ {:block/name "clarified artistic license",
+  :block/created-at 1653254258028,
+  :block/updated-at 1653254258028}
  {:block/name "commons",
   :block/created-at 1652906462832,
-  :block/updated-at 1652907113296}
+  :block/updated-at 1653255032227}
  {:block/name "contents",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "creative-commons-licenses",
+  :block/created-at 1653253667330,
+  :block/updated-at 1653253847861}
  {:block/name "decentralized-internet-infrastructure",
   :block/created-at 1652907090767,
   :block/updated-at 1652907090767}
+ {:block/name "documentation",
+  :block/created-at 1653252864521,
+  :block/updated-at 1653252864521}
  {:block/name "doing",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
  {:block/name "done",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "earth science",
+  :block/created-at 1653261438959,
+  :block/updated-at 1653261438959}
+ {:block/name "ecology",
+  :block/created-at 1653261651294,
+  :block/updated-at 1653261651294}
+ {:block/name "education",
+  :block/created-at 1653261746682,
+  :block/updated-at 1653261746682}
+ {:block/name "employment",
+  :block/created-at 1653256874116,
+  :block/updated-at 1653256874116}
+ {:block/name "engineering",
+  :block/created-at 1653261795690,
+  :block/updated-at 1653261795690}
  {:block/name "favorites",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "formal sciences",
+  :block/created-at 1653261313762,
+  :block/updated-at 1653261313901}
+ {:block/name "funding",
+  :block/created-at 1653256835500,
+  :block/updated-at 1653256874117}
+ {:block/name "git",
+  :block/created-at 1653257014013,
+  :block/updated-at 1653257031194}
+ {:block/name "gnu licenses",
+  :block/created-at 1653254151141,
+  :block/updated-at 1653254573319}
+ {:block/name "gnuallpermissive",
+  :block/created-at 1653254573319,
+  :block/updated-at 1653254573319}
+ {:block/name "gnugplv3",
+  :block/created-at 1653254042605,
+  :block/updated-at 1653254042605}
+ {:block/name "gplv2",
+  :block/created-at 1653254500663,
+  :block/updated-at 1653254500663}
  {:block/name "in-progress",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "inclusivity",
+  :block/created-at 1653256810117,
+  :block/updated-at 1653256810117}
+ {:block/name "information science",
+  :block/created-at 1653261291879,
+  :block/updated-at 1653261291879}
+ {:block/name "kb-software",
+  :block/created-at 1653257367786,
+  :block/updated-at 1653257719586}
  {:block/name "knowledge",
   :block/created-at 1653182232826,
   :block/updated-at 1653182351713}
@@ -40,15 +133,42 @@
  {:block/name "later",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}
+ {:block/name "lgplv2.1",
+  :block/created-at 1653254528213,
+  :block/updated-at 1653254528213}
+ {:block/name "lgplv3",
+  :block/created-at 1653254516304,
+  :block/updated-at 1653254516304}
+ {:block/name "licensing",
+  :block/created-at 1653252873755,
+  :block/updated-at 1653255189918}
+ {:block/name "linux system administration softwares",
+  :block/created-at 1653265595916,
+  :block/updated-at 1653265595998}
+ {:block/name "logseq",
+  :block/created-at 1653257412001,
+  :block/updated-at 1653257412001}
+ {:block/name "mathematics",
+  :block/created-at 1653261300183,
+  :block/updated-at 1653261300183}
  {:block/name "may 18th, 2022",
   :block/created-at 1652905071442,
   :block/updated-at 1652905078559}
- {:block/name "may 21st, 2022",
-  :block/created-at 1653155747306,
-  :block/updated-at 1653155747306}
+ {:block/name "may 22nd, 2022",
+  :block/created-at 1653251398217,
+  :block/updated-at 1653266818707}
  {:block/name "me",
   :block/created-at 1652905111944,
-  :block/updated-at 1653182232827}
+  :block/updated-at 1653273335885}
+ {:block/name "mit",
+  :block/created-at 1653255176006,
+  :block/updated-at 1653255176006}
+ {:block/name "my-research",
+  :block/created-at 1653259517025,
+  :block/updated-at 1653261141945}
+ {:block/name "natural sciences",
+  :block/created-at 1653261757954,
+  :block/updated-at 1653261758017}
  {:block/name "new page: de",
   :block/created-at 1652907065366,
   :block/updated-at 1652907065366}
@@ -88,6 +208,9 @@
  {:block/name "new page: decentralz",
   :block/created-at 1652907062547,
   :block/updated-at 1652907062547}
+ {:block/name "new page: gnugplv2",
+  :block/created-at 1653254290067,
+  :block/updated-at 1653254290067}
  {:block/name "new page: oe",
   :block/created-at 1652906800621,
   :block/updated-at 1652906800621}
@@ -168,31 +291,91 @@
   :block/updated-at 1652907981278}
  {:block/name "open",
   :block/created-at 1652906498562,
-  :block/updated-at 1652907017195}
+  :block/updated-at 1653256835500}
+ {:block/name "open movement",
+  :block/created-at 1653252702748,
+  :block/updated-at 1653257908308}
+ {:block/name "open-access",
+  :block/created-at 1653251887783,
+  :block/updated-at 1653251887783}
+ {:block/name "open-data",
+  :block/created-at 1653252788449,
+  :block/updated-at 1653252788449}
  {:block/name "open-education",
   :block/created-at 1652906790400,
-  :block/updated-at 1652906919174}
+  :block/updated-at 1653255291246}
  {:block/name "open-educational-resources",
   :block/created-at 1652906812224,
   :block/updated-at 1652906812224}
+ {:block/name "open-energy",
+  :block/created-at 1653254692420,
+  :block/updated-at 1653254692420}
  {:block/name "open-governance",
   :block/created-at 1652907012614,
   :block/updated-at 1652907012614}
  {:block/name "open-knowledge",
   :block/created-at 1652906761726,
   :block/updated-at 1652906790401}
+ {:block/name "open-scholarship",
+  :block/created-at 1653254706062,
+  :block/updated-at 1653255603537}
  {:block/name "open-science",
   :block/created-at 1652907017194,
-  :block/updated-at 1652907017194}
+  :block/updated-at 1653255953402}
  {:block/name "open-source",
   :block/created-at 1652906998427,
-  :block/updated-at 1652907001347}
+  :block/updated-at 1653257523401}
+ {:block/name "open-source-businesses",
+  :block/created-at 1653257523401,
+  :block/updated-at 1653257523401}
+ {:block/name "open-source-software",
+  :block/created-at 1653257219633,
+  :block/updated-at 1653257412001}
+ {:block/name "operating systems",
+  :block/created-at 1653265592543,
+  :block/updated-at 1653265592585}
+ {:block/name "ospos",
+  :block/created-at 1653256556770,
+  :block/updated-at 1653256556770}
+ {:block/name "pkm workflow",
+  :block/created-at 1653273325745,
+  :block/updated-at 1653273369694}
+ {:block/name "productivity softwares",
+  :block/created-at 1653265873410,
+  :block/updated-at 1653265873544}
+ {:block/name "proprietary-software",
+  :block/created-at 1653257254828,
+  :block/updated-at 1653257254828}
+ {:block/name "psychology",
+  :block/created-at 1653261731796,
+  :block/updated-at 1653261731796}
  {:block/name "public-land-trusts",
   :block/created-at 1652907052389,
   :block/updated-at 1652907052389}
+ {:block/name "research",
+  :block/created-at 1653262011582,
+  :block/updated-at 1653262562316}
  {:block/name "resilience",
   :block/created-at 1652907358062,
-  :block/updated-at 1652907369401}
+  :block/updated-at 1653260952957}
+ {:block/name "scholarly-publishing",
+  :block/created-at 1653255522004,
+  :block/updated-at 1653255522004}
+ {:block/name "science",
+  :block/created-at 1653254829902,
+  :block/updated-at 1653262341008}
+ {:block/name "social sciences",
+  :block/created-at 1653261762185,
+  :block/updated-at 1653261762362}
+ {:block/name "sociology",
+  :block/created-at 1653261631377,
+  :block/updated-at 1653261631377}
+ {:block/name "softwares",
+  :block/created-at 1653256945097,
+  :block/updated-at 1653265882746}
+ {:block/name "systems theory",
+  :block/created-at 1653261281356,
+  :block/updated-at 1653261281356}
  {:block/name "todo",
   :block/created-at 1652907981278,
   :block/updated-at 1652907981278}

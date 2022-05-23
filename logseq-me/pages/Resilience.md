@@ -1,3 +1,5 @@
 - [[Commons]]
 - [[open]]
+- Self sufficiency - Interdependence
+- Community Resilience Expert
 -

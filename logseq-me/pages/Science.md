@@ -1,0 +1,11 @@
+- [[Formal Sciences]]
+	- {{embed [[Formal Sciences]]}}
+- [[Natural Sciences]]
+	- {{embed [[Natural Sciences]]}}
+- [[Social Sciences]]
+	- {{embed [[Social Sciences]]}}
+- [[Applied Sciences]]
+	- [[Engineering]]
+	- Medical
+- References:
+	- https://en.wikipedia.org/wiki/Branches_of_science

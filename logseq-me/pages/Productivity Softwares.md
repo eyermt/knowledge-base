@@ -1,0 +1,10 @@
+- Text Editors
+- Web Browsers
+- Habit Trackers
+- Personal Knowledge Management
+	- Note Taking
+	- Knowledge Base [[kb-software]]
+		- Logseq
+		- Obsidian
+-
+-

@@ -48,9 +48,6 @@
   "college-of-liberal-arts-education-and-human-development",
   :block/created-at 1653186673723,
   :block/updated-at 1653187316072}
- {:block/name "college-of-liberal-arts-education-and-human-devment",
-  :block/created-at 1653187758472,
-  :block/updated-at 1653187758472}
  {:block/name "college-of-sciences",
   :block/created-at 1653186712020,
   :block/updated-at 1653186789456}
@@ -168,15 +165,15 @@
  {:block/name "may 15th, 2022",
   :block/created-at 1652650501118,
   :block/updated-at 1652650501118}
- {:block/name "may 16th, 2022",
-  :block/created-at 1652678543210,
-  :block/updated-at 1652678543210}
- {:block/name "may 18th, 2022",
-  :block/created-at 1652904996615,
-  :block/updated-at 1652904996615}
  {:block/name "may 21st, 2022",
   :block/created-at 1653155761339,
   :block/updated-at 1653182098493}
+ {:block/name "may 22nd, 2022",
+  :block/created-at 1653250985931,
+  :block/updated-at 1653250985931}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653282004521,
+  :block/updated-at 1653282004521}
  {:block/name "meta",
   :block/created-at 1653181849554,
   :block/updated-at 1653183358029}
@@ -240,9 +237,6 @@
  {:block/name "owc-constitution",
   :block/created-at 1652652181091,
   :block/updated-at 1652652336768}
- {:block/name "owc-documentation",
-  :block/created-at 1652651249063,
-  :block/updated-at 1652652398886}
  {:block/name "owc-governance",
   :block/created-at 1653173600908,
   :block/updated-at 1653177698105}

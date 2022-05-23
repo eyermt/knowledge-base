@@ -1,0 +1,13 @@
+- My Research [[my-research]]
+  collapsed:: true
+	- {{embed [[my-research]]}}
+-
+- Forms of Research:
+	- Original Research
+	- Scientific Research [[Science]]
+	- Humanities
+	- Artistic
+	- Historical
+	- Documentary
+		- https://en.wikipedia.org/wiki/Documentary_research
+-

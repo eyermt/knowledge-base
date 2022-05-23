@@ -1,0 +1,28 @@
+- Open Source Softwares [[open-source-software]]
+	- {{embed [[open-source-software]]}}
+- Proprietary Softwares [[proprietary-software]]
+-
+- [[Operating Systems]]
+	- {{embed [[Operating Systems]]}}
+-
+- [[Linux System Administration Softwares]]
+	- {{embed [[Linux System Administration Softwares]]}}
+-
+- [[3D Softwares]]
+	- {{embed [[3D Softwares]]}}
+-
+- [[Productivity Softwares]]
+	- {{embed [[Productivity Softwares]]}}
+-
+- Services
+	- Media Server
+		- Plex
+		- Jellyfin
+	- NFS
+-
+-
+- Business/Organizations
+	- Project Management
+		- Kanban
+		- Workflow Management
+	-
